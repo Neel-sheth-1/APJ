@@ -1,0 +1,31 @@
+body{
+  background-color: black;
+}
+.heading{
+  color:aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+padding: 13rem;
+font-size: 55px;
+}
+#apj
+{
+  size:500px;
+padding: 5rem;
+}
+.text{
+  color:aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size:25px ;
+}
+h2{
+  color:aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+padding: 3rem;
+font-size: 55px;
+text-align: center;
+
+}
+hr{
+  width: 60%;
+}
